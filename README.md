@@ -1,9 +1,5 @@
 ### Hi! I’m Joanderson
 
-
-
-
-
 - 🌱 I’m currently learning Machine Learning
 - 📚 Computer engineering(UEFS)
 
@@ -25,7 +21,6 @@
   <img align="center" alt="Rafa-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Rafa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
- 
 </div>
   
   ##
@@ -33,10 +28,5 @@
 <div> 
  
   <a href = "mailto:joandersonsantos2090@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
-
- 
+   
 </div>
-
-
